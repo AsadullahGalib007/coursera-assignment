@@ -115,11 +115,17 @@ ul.topnav li.dropdownMenu{
     background: -webkit-linear-gradient(#076dff,#65a5ff);
     background: -o-linear-gradient(#076dff,#65a5ff);
     background: -moz-linear-gradient(#076dff,#65a5ff);
+<<<<<<< HEAD
 
     /*
     background-image: url(markus-spiske-qjnAnF0jIGk-unsplash.jpg);
     background-size: contain;
     */
+=======
+/* 
+    background-image: url(markus-spiske-qjnAnF0jIGk-unsplash.jpg);
+    background-size: contain; */
+>>>>>>> 4cc0eae5764311fd4c382a9e7966ffb75681c4a9
 }
 
 div.leftSide-col{
