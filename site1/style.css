@@ -109,15 +109,17 @@ ul.topnav li.dropdownMenu{
 
 /*######## Custom Styles ########*/
 #section_1_gradient{
-/*
+
     background: #076DFF;
     background: linear-gradient(#076dff,#65a5ff);
     background: -webkit-linear-gradient(#076dff,#65a5ff);
     background: -o-linear-gradient(#076dff,#65a5ff);
     background: -moz-linear-gradient(#076dff,#65a5ff);
-*/
+
+    /*
     background-image: url(markus-spiske-qjnAnF0jIGk-unsplash.jpg);
     background-size: contain;
+    */
 }
 
 div.leftSide-col{
